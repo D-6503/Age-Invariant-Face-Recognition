@@ -155,5 +155,4 @@ Key references include works by Schroff et al. (2015), Zhang et al. (2016), and 
 ---
 
 **Developed by:** *Darshan M*
-**Institution:** *East West Institute of Technology*
 **Year:** *2024-2025*
